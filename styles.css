@@ -8,20 +8,14 @@ html{
 }
 body{
     background-image: url('https://external-preview.redd.it/jmpK4epOrtKm1HFaVPzAB7Gz7uYnk7JJUMiPG6VXwno.jpg?auto=webp&s=5fe76c837d1c682818a6909d318515c869ff94ea');
-    background-image: linear-gradient(#e66465, #9198e5)
     background-position: center ;
     background-size: 100vh;
     background-repeat: no-repeat;
     height: 100vh;
     margin: 0;
     padding: 0;
-    /* width: 100vw; */
 }
-/* img{
-    height: 100%;
-    width: 100%;
 
-} */
 section{
     position: absolute;
     top: 50%;
@@ -34,7 +28,6 @@ section{
       -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
     border-radius: 50px;
     display: flex;
-    height: 10em;
     justify-content: center;
     margin-right: 4rem;
     width: 11em;
@@ -42,7 +35,7 @@ section{
     text-align: center;
     font-size: 30px;
     padding: 2em;
-}
+}   
 button{
     background-color: purple;
     border-color: transparent;
